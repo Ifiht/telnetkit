@@ -1,0 +1,2 @@
+# telnetkit
+Hack the telehack!
